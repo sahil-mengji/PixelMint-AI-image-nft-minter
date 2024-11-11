@@ -1,8 +1,8 @@
 
-# AI-Powered NFT Minter
+# PixelMint (AI-image-nft-minter)
 
 
-The AI-Powered NFT Minter is an application that dynamically generates unique images using AI and allows users to mint these images as NFTs on the blockchain. The app is designed to streamline the NFT creation and minting process by leveraging AI-generated artwork.
+The PixelMint-AI-image-nft-minter is an application that dynamically generates unique images using AI and allows users to mint these images as NFTs on the blockchain. The app is designed to streamline the NFT creation and minting process by leveraging AI-generated artwork.
 ## Features
 1.Dynamic Image Generation: Generates unique images using AI based on customizable prompts and parameters.
 
